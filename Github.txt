@@ -1,0 +1,17 @@
+git config --global user.name "edineyc" ---> Resgistrar o seu usuário
+
+git config --global user.email "ediney_ciasi@hotmail.com" ---> Registrar o seu Email utilizado no Gitbub
+
+Criar um repositório no Git ---> Publico
+
+git clone https://github.com/edineyc/etec1.git --------> Clonar o repositório
+
+-----> Verificar se foi clonado o repositorio
+
+-----> Popular o repositorio local
+
+git add.
+
+git commit -m "Teste de commit aqui"
+
+git push ---> Enviar atualização.
